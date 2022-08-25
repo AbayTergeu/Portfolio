@@ -13,8 +13,8 @@ function Footer() {
                 <div className="col-sm-2 top"><Link to="root" spy={true} smooth={true}><span><FontAwesomeIcon icon={faChevronUp} /></span></Link></div>
                 <div className="col-sm-5 social">
                     <ul>
-                        <li><a aria-label="linkedin" draggable="false" /* href="https://linkedin.com/in/jason-anh-vu" */ target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
-                        <li><a aria-label="gmail" draggable="false" /* href="mailto:javu404@gmail.com?Subject=Hello Jason, I'd Love to Connect!" */ rel="noopener noreferrer"><FontAwesomeIcon icon={faMailBulk} /></a></li>
+                        <li><a aria-label="linkedin" draggable="false"  target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
+                        <li><a aria-label="gmail" draggable="false"  rel="noopener noreferrer"><FontAwesomeIcon icon={faMailBulk} /></a></li>
                     </ul>
                 </div> 
             </div>

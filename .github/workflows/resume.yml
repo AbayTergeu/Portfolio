@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit Resume
         run: |
-          mv resume.pdf public/jason-vu-resume.pdf
+          mv resume.pdf public/tr-resume.pdf
           git config --global user.name "javab3ans/portfolio"
           git config --global user.email "jvu@scu.edu"
           git add .
